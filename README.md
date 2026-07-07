@@ -1,4 +1,3 @@
-# Data-Analysis-Report-Cereal-Dataset
 # 📊 Cereal Dataset Data Analytics
 
 This project analyzes a cereal dataset collected from Kaggle using Python data analytics techniques. The project includes data preprocessing, visualization, and hypothesis testing to discover meaningful insights from cereal nutrition data.
